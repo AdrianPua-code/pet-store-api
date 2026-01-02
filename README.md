@@ -25,7 +25,7 @@ API completa para gestionar una tienda de productos para mascotas, desarrollada 
 
 ```bash
 # Clonar el repositorio
-git clone [tu-repositorio]
+git clone https://github.com/AdrianPua-code/pet-store-api.git
 
 # Instalar dependencias
 npm install
